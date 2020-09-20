@@ -1,7 +1,5 @@
 package ir.navaco.unittest;
 
-import junit.framework.Assert;
-
 import org.junit.Test;
 
 import ir.navaco.unittest.Tools.Helper_Validation;
